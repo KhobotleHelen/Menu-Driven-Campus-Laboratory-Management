@@ -1,4 +1,4 @@
-// Activity.cpp   (Student B - Activity Scheduling)
+// Activity.cpp   (Student B -)
 #include "Activity.h"
 
 // Destructor: free every node.
